@@ -1,5 +1,5 @@
 # Figure 5 crap
-source('model/plosbioplottheme.R')
+source('plosbioplottheme.R')
 library(dplyr)
 
 df.BB <- read.csv('R_brain_behave.csv') # read in the damn file :)
